@@ -1,3 +1,4 @@
 build/
 experiments/
 plots/
+.DS_Store
