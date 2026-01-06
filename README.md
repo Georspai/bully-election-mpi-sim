@@ -255,7 +255,7 @@ Validation rules:
 ## Project Structure
 
 ```
-Bully_MPI/
+bully-election-mpi-sim/
 ├── CMakeLists.txt
 ├── config.json
 ├── README.md
@@ -267,7 +267,7 @@ Bully_MPI/
 │   ├── logger.hpp    # State, message, and debug logging
 │   └── failure.hpp   # Pluggable failure models (Network, Crash, None)
 ├── scripts/
-│   ├── run_experiments.py  # Batch experiment runner
+│   ├── run_experiments.py  # Batch experiment runner with parameter sweeps
 │   └── metrics.py          # Compute election metrics from logs
 └── visualizer/
     ├── index.html
@@ -327,6 +327,9 @@ python3 scripts/run_experiments.py -e ./build/mpi_bully_sim --preset full
 
 # Custom parameters
 python3 scripts/run_experiments.py --nodes 5 10 15 --p-fail 0.05 0.1
+
+# Dry run to see what would be executed
+python3 scripts/run_experiments.py --preset quick --dry-run
 ```
 
 ### Available Presets
@@ -344,10 +347,40 @@ python3 scripts/run_experiments.py --nodes 5 10 15 --p-fail 0.05 0.1
 Compute metrics from a single run:
 
 ```bash
+# Basic usage
 python3 scripts/metrics.py path/to/state_log.jsonl
+
+# With config file (extracts parameters automatically)
+python3 scripts/metrics.py path/to/state_log.jsonl -c path/to/config.json
+
+# Save results to JSON
+python3 scripts/metrics.py path/to/state_log.jsonl -c config.json -s results.json
+
+# With explicit parameters (for plotting)
+python3 scripts/metrics.py state_log.jsonl --nodes 32 --p-fail 0.02 --p-drop 0.1 -s results.json
 ```
 
 Metrics computed:
 - **Election rate** - Elections started per 100 ticks
 - **Agreement ratio** - Fraction of ticks with leader consensus
 - **Convergence time** - Ticks to re-establish consensus after leader failure
+- **Leader failures** - Number of times the leader went offline
+
+### Results Format
+
+Results JSON includes both metrics and parameters for easy plotting:
+
+```json
+{
+  "total_ticks": 1000,
+  "elections_started": 818,
+  "election_rate_per_100": 81.8,
+  "agreement_ratio": 0.999,
+  "avg_convergence_time": 1.46,
+  "leader_failures": 25,
+  "num_nodes": 32,
+  "p_fail": 0.02,
+  "p_drop": 0.1,
+  "election_timeout": 3
+}
+```
