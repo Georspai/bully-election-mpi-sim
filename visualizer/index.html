@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bully Election Visualizer</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>Bully Election Algorithm Visualizer</h1>
+            <div id="file-upload">
+                <label for="state-file">State Log:</label>
+                <input type="file" id="state-file" accept=".jsonl">
+                <label for="msg-file">Message Log:</label>
+                <input type="file" id="msg-file" accept=".jsonl">
+                <button id="load-btn" disabled>Load Simulation</button>
+            </div>
+        </header>
+
+        <main>
+            <div id="graph-container">
+                <svg id="graph"></svg>
+            </div>
+
+            <aside id="info-panel">
+                <h2>Simulation Info</h2>
+                <div id="metadata">
+                    <p><strong>Nodes:</strong> <span id="num-nodes">-</span></p>
+                    <p><strong>Ticks:</strong> <span id="num-ticks">-</span></p>
+                    <p><strong>Seed:</strong> <span id="seed">-</span></p>
+                </div>
+
+                <h2>Current State</h2>
+                <div id="current-state">
+                    <p><strong>Tick:</strong> <span id="current-tick">0</span></p>
+                    <p><strong>Leader:</strong> <span id="current-leader">-</span></p>
+                    <p><strong>Elections Active:</strong> <span id="elections-active">0</span></p>
+                    <p><strong>Nodes Online:</strong> <span id="nodes-online">-</span></p>
+                </div>
+
+                <h2>Legend</h2>
+                <div id="legend">
+                    <div class="legend-item">
+                        <span class="node-sample online"></span> Online
+                    </div>
+                    <div class="legend-item">
+                        <span class="node-sample offline"></span> Offline
+                    </div>
+                    <div class="legend-item">
+                        <span class="node-sample leader"></span> Leader
+                    </div>
+                    <div class="legend-item">
+                        <span class="node-sample election"></span> In Election
+                    </div>
+                </div>
+
+                <h2>Message Types</h2>
+                <div id="msg-legend">
+                    <div class="legend-item"><span class="msg-line heartbeat"></span> Heartbeat</div>
+                    <div class="legend-item"><span class="msg-line election-msg"></span> Election</div>
+                    <div class="legend-item"><span class="msg-line ok-msg"></span> OK</div>
+                    <div class="legend-item"><span class="msg-line coordinator"></span> Coordinator</div>
+                </div>
+
+                <h2>Message Log</h2>
+                <div id="message-log">
+                    <div id="message-log-content"></div>
+                </div>
+            </aside>
+        </main>
+
+        <section id="timeline-container">
+            <div id="timeline-header">
+                <h3>Node State Timeline</h3>
+                <div id="timeline-legend">
+                    <span class="tl-legend-item"><span class="tl-color online"></span>Online</span>
+                    <span class="tl-legend-item"><span class="tl-color offline"></span>Offline</span>
+                    <span class="tl-legend-item"><span class="tl-color leader"></span>Leader</span>
+                    <span class="tl-legend-item"><span class="tl-color election"></span>Election</span>
+                </div>
+            </div>
+            <div id="timeline-chart"></div>
+        </section>
+
+        <footer id="controls">
+            <div id="playback">
+                <button id="reset-btn" disabled title="Reset to beginning">&#8634; Reset</button>
+                <button id="prev-btn" disabled>&#9664; Prev</button>
+                <button id="play-btn" disabled>&#9654; Play</button>
+                <button id="next-btn" disabled>Next &#9654;</button>
+                <button id="step-btn" disabled title="Step forward (pauses playback)">Step &#10140;</button>
+            </div>
+            <div id="timeline">
+                <input type="range" id="tick-slider" min="0" max="0" value="0" disabled>
+                <span id="tick-display">0 / 0</span>
+            </div>
+            <div id="speed-control">
+                <label for="speed-slider">Delay:</label>
+                <input type="range" id="speed-slider" min="200" max="3000" value="1000" step="100">
+                <span id="speed-display">1000ms</span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="parser.js"></script>
+    <script src="graph.js"></script>
+    <script src="timeline.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

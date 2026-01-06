@@ -1,0 +1,23 @@
+{
+    "simulation": {
+        "num_ticks": 50,
+        "seed": 12345
+    },
+    "node": {
+        "p_fail": 0.05,
+        "leader_fail_multiplier": 2.0,
+        "offline_durations": [1, 2, 3, 5],
+        "offline_weights": [70, 20, 7, 3],
+        "hb_period_ticks": 1,
+        "hb_timeout_ticks": 3,
+        "election_timeout_ticks": 2,
+        "p_send": 0.30,
+        "p_drop": 0.02,
+        "max_recv_per_tick": 64
+    },
+    "logging": {
+        "state_log_file": "state_log.jsonl",
+        "message_log_file": "message_log.jsonl",
+        "verbose": true
+    }
+}

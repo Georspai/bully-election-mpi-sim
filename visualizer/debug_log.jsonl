@@ -1,0 +1,2075 @@
+{"msg":"→ HEARTBEAT to all","tick":0,"uid":6}
+{"msg":"→ PING to 1","tick":0,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":1,"uid":1}
+{"msg":"→ ACK to 6","tick":1,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":1,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":1,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":1,"uid":4}
+{"msg":"→ PING to 2","tick":1,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":1,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":1,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":2,"uid":1}
+{"msg":"→ ACK to 5","tick":2,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":2,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":2,"uid":3}
+{"msg":"→ PING to 2","tick":2,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":2,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":2,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":2,"uid":6}
+{"msg":"→ PING to 3","tick":3,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":3,"uid":1}
+{"msg":"→ ACK to 4","tick":3,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":3,"uid":2}
+{"msg":"→ PING to 2","tick":3,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":3,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":3,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":3,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":3,"uid":6}
+{"msg":"→ PING to 6","tick":4,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":4,"uid":1}
+{"msg":"→ ACK to 3","tick":4,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":4,"uid":2}
+{"msg":"→ PING to 1","tick":4,"uid":3}
+{"msg":"→ ACK to 1","tick":4,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":4,"uid":3}
+{"msg":"→ PING to 3","tick":4,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":4,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":4,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":4,"uid":6}
+{"msg":"→ ACK to 1","tick":4,"uid":6}
+{"msg":"→ ACK to 3","tick":5,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":5,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":5,"uid":2}
+{"msg":"→ PING to 5","tick":5,"uid":3}
+{"msg":"→ ACK to 4","tick":5,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":5,"uid":3}
+{"msg":"→ PING to 5","tick":5,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":5,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":5,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":5,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":6,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":6,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":6,"uid":3}
+{"msg":"→ PING to 1","tick":6,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":6,"uid":4}
+{"msg":"→ PING to 1","tick":6,"uid":5}
+{"msg":"→ ACK to 3","tick":6,"uid":5}
+{"msg":"→ ACK to 4","tick":6,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":6,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":6,"uid":6}
+{"msg":"→ PING to 5","tick":7,"uid":1}
+{"msg":"→ ACK to 4","tick":7,"uid":1}
+{"msg":"→ ACK to 5","tick":7,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":7,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":7,"uid":2}
+{"msg":"→ PING to 6","tick":7,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":7,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":7,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":7,"uid":6}
+{"msg":"→ PING to 1","tick":7,"uid":6}
+{"msg":"→ ACK to 3","tick":7,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":8,"uid":1}
+{"msg":"→ ACK to 6","tick":8,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":8,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":8,"uid":3}
+{"msg":"→ PING to 3","tick":8,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":8,"uid":4}
+{"msg":"→ PING to 2","tick":8,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":8,"uid":6}
+{"msg":"→ PING to 5","tick":8,"uid":6}
+{"msg":"→ PING to 2","tick":9,"uid":1}
+{"msg":"→ ACK to 4","tick":9,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":9,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":9,"uid":6}
+{"msg":"→ PING to 6","tick":10,"uid":1}
+{"msg":"→ PING to 1","tick":10,"uid":2}
+{"msg":"→ PING to 6","tick":10,"uid":4}
+{"msg":"→ ELECTION to 6","tick":10,"uid":5}
+{"msg":"→ PING to 4","tick":10,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":10,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":11,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":11,"uid":2}
+{"msg":"→ PING to 4","tick":11,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":11,"uid":3}
+{"msg":"→ PING to 1","tick":11,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":11,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":11,"uid":6}
+{"msg":"→ PING to 2","tick":11,"uid":6}
+{"msg":"→ ACK to 4","tick":11,"uid":6}
+{"msg":"→ ACK to 1","tick":11,"uid":6}
+{"msg":"→ ELECTION to 2","tick":12,"uid":1}
+{"msg":"→ ELECTION to 3","tick":12,"uid":1}
+{"msg":"→ ELECTION to 4","tick":12,"uid":1}
+{"msg":"→ ELECTION to 5","tick":12,"uid":1}
+{"msg":"→ ELECTION to 6","tick":12,"uid":1}
+{"msg":"→ PING to 2","tick":12,"uid":1}
+{"msg":"→ ACK to 4","tick":12,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":12,"uid":1}
+{"msg":"→ ELECTION to 3","tick":12,"uid":2}
+{"msg":"→ ELECTION to 4","tick":12,"uid":2}
+{"msg":"→ ELECTION to 5","tick":12,"uid":2}
+{"msg":"→ ELECTION to 6","tick":12,"uid":2}
+{"msg":"→ ELECTION to 4","tick":12,"uid":3}
+{"msg":"→ ELECTION to 5","tick":12,"uid":3}
+{"msg":"→ ELECTION to 6","tick":12,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":12,"uid":3}
+{"msg":"→ ELECTION to 5","tick":12,"uid":4}
+{"msg":"→ ELECTION to 6","tick":12,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":12,"uid":4}
+{"msg":"→ ACK to 3","tick":12,"uid":4}
+{"msg":"→ PING to 1","tick":12,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":12,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":12,"uid":6}
+{"msg":"→ ACK to 5","tick":13,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":13,"uid":1}
+{"msg":"→ OK to 1","tick":13,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":13,"uid":2}
+{"msg":"→ ACK to 1","tick":13,"uid":2}
+{"msg":"→ OK to 1","tick":13,"uid":3}
+{"msg":"← ELECTION from 1: starting own election","tick":13,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":13,"uid":3}
+{"msg":"→ OK to 1","tick":13,"uid":4}
+{"msg":"← ELECTION from 1: starting own election","tick":13,"uid":4}
+{"msg":"→ OK to 3","tick":13,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":13,"uid":4}
+{"msg":"→ OK to 1","tick":13,"uid":5}
+{"msg":"← ELECTION from 1: starting own election","tick":13,"uid":5}
+{"msg":"→ OK to 3","tick":13,"uid":5}
+{"msg":"→ OK to 4","tick":13,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":13,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":13,"uid":6}
+{"msg":"→ PING to 1","tick":13,"uid":6}
+{"msg":"← OK from 2: yielding, waiting for COORDINATOR","tick":14,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":14,"uid":1}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":14,"uid":1}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":14,"uid":1}
+{"msg":"→ PING to 5","tick":14,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":14,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":14,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":14,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":14,"uid":6}
+{"msg":"→ PING to 4","tick":14,"uid":6}
+{"msg":"→ PING to 1","tick":15,"uid":3}
+{"msg":"→ ACK to 2","tick":15,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":15,"uid":6}
+{"msg":"→ PING to 3","tick":15,"uid":6}
+{"msg":"→ ACK to 3","tick":16,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":16,"uid":2}
+{"msg":"→ PING to 5","tick":16,"uid":3}
+{"msg":"→ PING to 2","tick":16,"uid":5}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":16,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":16,"uid":6}
+{"msg":"→ PING to 5","tick":17,"uid":1}
+{"msg":"→ ELECTION to 3","tick":17,"uid":2}
+{"msg":"→ ELECTION to 4","tick":17,"uid":2}
+{"msg":"→ ELECTION to 5","tick":17,"uid":2}
+{"msg":"→ ELECTION to 6","tick":17,"uid":2}
+{"msg":"→ ACK to 5","tick":17,"uid":2}
+{"msg":"→ PING to 5","tick":17,"uid":3}
+{"msg":"→ ELECTION to 6","tick":17,"uid":5}
+{"msg":"→ ACK to 3","tick":17,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":17,"uid":6}
+{"msg":"⏱ timeout: no COORDINATOR received, restarting election","tick":18,"uid":1}
+{"msg":"→ OK to 2","tick":18,"uid":3}
+{"msg":"← ELECTION from 2: starting own election","tick":18,"uid":3}
+{"msg":"⏱ timeout: no COORDINATOR received, restarting election","tick":18,"uid":3}
+{"msg":"→ PING to 5","tick":18,"uid":4}
+{"msg":"→ OK to 2","tick":18,"uid":4}
+{"msg":"← ELECTION from 2: starting own election","tick":18,"uid":4}
+{"msg":"⏱ timeout: no COORDINATOR received, restarting election","tick":18,"uid":4}
+{"msg":"→ ACK to 1","tick":18,"uid":5}
+{"msg":"→ OK to 2","tick":18,"uid":5}
+{"msg":"→ ACK to 3","tick":18,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":18,"uid":6}
+{"msg":"→ ELECTION to 2","tick":19,"uid":1}
+{"msg":"→ ELECTION to 3","tick":19,"uid":1}
+{"msg":"→ ELECTION to 4","tick":19,"uid":1}
+{"msg":"→ ELECTION to 5","tick":19,"uid":1}
+{"msg":"→ ELECTION to 6","tick":19,"uid":1}
+{"msg":"→ PING to 5","tick":19,"uid":2}
+{"msg":"→ ELECTION to 4","tick":19,"uid":3}
+{"msg":"→ ELECTION to 5","tick":19,"uid":3}
+{"msg":"→ ELECTION to 6","tick":19,"uid":3}
+{"msg":"→ ELECTION to 5","tick":19,"uid":4}
+{"msg":"→ ELECTION to 6","tick":19,"uid":4}
+{"msg":"→ ACK to 4","tick":19,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":19,"uid":6}
+{"msg":"→ PING to 6","tick":20,"uid":2}
+{"msg":"→ PING to 2","tick":20,"uid":3}
+{"msg":"→ OK to 1","tick":20,"uid":3}
+{"msg":"→ PING to 1","tick":20,"uid":4}
+{"msg":"→ OK to 3","tick":20,"uid":4}
+{"msg":"→ OK to 1","tick":20,"uid":4}
+{"msg":"→ OK to 1","tick":20,"uid":5}
+{"msg":"→ OK to 3","tick":20,"uid":5}
+{"msg":"→ OK to 4","tick":20,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":20,"uid":6}
+{"msg":"→ OK to 1","tick":20,"uid":6}
+{"msg":"← ELECTION from 1: starting own election","tick":20,"uid":6}
+{"msg":"→ OK to 3","tick":20,"uid":6}
+{"msg":"→ OK to 4","tick":20,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":21,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":21,"uid":1}
+{"msg":"→ ACK to 4","tick":21,"uid":1}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":21,"uid":1}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":21,"uid":1}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":21,"uid":1}
+{"msg":"👑 won election: becoming leader","tick":21,"uid":2}
+{"msg":"→ COORDINATOR to all: I am leader","tick":21,"uid":2}
+{"msg":"→ PING to 4","tick":21,"uid":3}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":21,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":21,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":21,"uid":3}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":21,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":21,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":21,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":21,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":22,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":22,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":22,"uid":3}
+{"msg":"→ PING to 4","tick":22,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":22,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":22,"uid":6}
+{"msg":"→ PING to 3","tick":22,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":23,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":23,"uid":2}
+{"msg":"→ PING to 4","tick":23,"uid":2}
+{"msg":"→ PING to 6","tick":23,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":23,"uid":3}
+{"msg":"→ ACK to 6","tick":23,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":23,"uid":4}
+{"msg":"→ COORDINATOR to all: I am leader","tick":23,"uid":4}
+{"msg":"→ PING to 1","tick":23,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":23,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":23,"uid":6}
+{"msg":"→ PING to 3","tick":23,"uid":6}
+{"msg":"→ ACK to 5","tick":24,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":24,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":24,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":24,"uid":3}
+{"msg":"→ ACK to 6","tick":24,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":24,"uid":4}
+{"msg":"→ PING to 2","tick":24,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":24,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":24,"uid":6}
+{"msg":"→ PING to 5","tick":25,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":25,"uid":2}
+{"msg":"→ PING to 1","tick":25,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":25,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":25,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":25,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":25,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":26,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":26,"uid":4}
+{"msg":"→ PING to 1","tick":26,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":26,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":27,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":27,"uid":2}
+{"msg":"→ PING to 3","tick":27,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":27,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":27,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":27,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":27,"uid":6}
+{"msg":"→ ELECTION to 2","tick":28,"uid":1}
+{"msg":"→ ELECTION to 3","tick":28,"uid":1}
+{"msg":"→ ELECTION to 4","tick":28,"uid":1}
+{"msg":"→ ELECTION to 5","tick":28,"uid":1}
+{"msg":"→ ELECTION to 6","tick":28,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":28,"uid":2}
+{"msg":"→ PING to 1","tick":28,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":28,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":28,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":28,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":28,"uid":4}
+{"msg":"→ ELECTION to 6","tick":28,"uid":5}
+{"msg":"→ PING to 1","tick":28,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":28,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":28,"uid":6}
+{"msg":"→ PING to 3","tick":29,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":29,"uid":2}
+{"msg":"→ PING to 1","tick":29,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":29,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":29,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":29,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":29,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":29,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":29,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":29,"uid":6}
+{"msg":"→ OK to 5","tick":29,"uid":6}
+{"msg":"← ELECTION from 5: starting own election","tick":29,"uid":6}
+{"msg":"→ PING to 2","tick":30,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":30,"uid":1}
+{"msg":"← HEARTBEAT from 2","tick":30,"uid":1}
+{"msg":"→ ACK to 2","tick":30,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":30,"uid":2}
+{"msg":"→ PING to 5","tick":30,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":30,"uid":3}
+{"msg":"→ PING to 1","tick":30,"uid":4}
+{"msg":"→ PING to 3","tick":30,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":30,"uid":5}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":30,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":30,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":30,"uid":6}
+{"msg":"→ PING to 4","tick":30,"uid":6}
+{"msg":"→ PING to 5","tick":31,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":31,"uid":1}
+{"msg":"→ ACK to 1","tick":31,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":31,"uid":2}
+{"msg":"→ PING to 1","tick":31,"uid":3}
+{"msg":"→ ACK to 5","tick":31,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":31,"uid":3}
+{"msg":"→ PING to 5","tick":31,"uid":4}
+{"msg":"→ ACK to 3","tick":31,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":31,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":31,"uid":6}
+{"msg":"→ PING to 5","tick":32,"uid":1}
+{"msg":"→ ACK to 3","tick":32,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":32,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":32,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":32,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":32,"uid":4}
+{"msg":"→ PING to 1","tick":32,"uid":5}
+{"msg":"→ ACK to 1","tick":32,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":32,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":32,"uid":6}
+{"msg":"→ PING to 2","tick":32,"uid":6}
+{"msg":"→ ACK to 5","tick":33,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":33,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":33,"uid":2}
+{"msg":"→ ACK to 6","tick":33,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":33,"uid":3}
+{"msg":"→ ELECTION to 5","tick":33,"uid":4}
+{"msg":"→ ELECTION to 6","tick":33,"uid":4}
+{"msg":"→ ACK to 1","tick":33,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":33,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":33,"uid":6}
+{"msg":"→ PING to 4","tick":33,"uid":6}
+{"msg":"→ PING to 3","tick":34,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":34,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":34,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":34,"uid":3}
+{"msg":"→ PING to 2","tick":34,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":34,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":34,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":34,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":34,"uid":6}
+{"msg":"→ PING to 5","tick":35,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":35,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":35,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":35,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":35,"uid":2}
+{"msg":"→ PING to 2","tick":35,"uid":3}
+{"msg":"→ ACK to 1","tick":35,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":35,"uid":3}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":35,"uid":3}
+{"msg":"→ PING to 2","tick":35,"uid":4}
+{"msg":"→ PING to 4","tick":35,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":35,"uid":5}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":35,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":35,"uid":6}
+{"msg":"→ PING to 6","tick":36,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":36,"uid":1}
+{"msg":"→ ACK to 3","tick":36,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":36,"uid":2}
+{"msg":"→ PING to 4","tick":36,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":36,"uid":3}
+{"msg":"→ ACK to 1","tick":36,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":36,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":36,"uid":6}
+{"msg":"→ PING to 3","tick":36,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":37,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":37,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":37,"uid":3}
+{"msg":"→ ACK to 6","tick":37,"uid":3}
+{"msg":"→ ACK to 3","tick":37,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":37,"uid":4}
+{"msg":"→ PING to 1","tick":37,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":37,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":37,"uid":6}
+{"msg":"→ ACK to 1","tick":37,"uid":6}
+{"msg":"→ ACK to 5","tick":38,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":38,"uid":1}
+{"msg":"→ PING to 5","tick":38,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":38,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":38,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":38,"uid":3}
+{"msg":"→ PING to 1","tick":38,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":38,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":38,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":38,"uid":6}
+{"msg":"→ ACK to 4","tick":39,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":39,"uid":1}
+{"msg":"→ PING to 2","tick":39,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":39,"uid":3}
+{"msg":"→ PING to 1","tick":39,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":39,"uid":4}
+{"msg":"→ ACK to 2","tick":39,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":39,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":39,"uid":6}
+{"msg":"→ PING to 5","tick":39,"uid":6}
+{"msg":"→ ACK to 4","tick":40,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":40,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":40,"uid":5}
+{"msg":"→ ACK to 6","tick":40,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":40,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":41,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":41,"uid":2}
+{"msg":"→ PING to 2","tick":41,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":41,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":41,"uid":6}
+{"msg":"→ PING to 3","tick":42,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":42,"uid":1}
+{"msg":"→ ELECTION to 3","tick":42,"uid":2}
+{"msg":"→ ELECTION to 4","tick":42,"uid":2}
+{"msg":"→ ELECTION to 5","tick":42,"uid":2}
+{"msg":"→ ELECTION to 6","tick":42,"uid":2}
+{"msg":"→ PING to 4","tick":42,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":42,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":42,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":42,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":42,"uid":6}
+{"msg":"→ PING to 6","tick":43,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":43,"uid":1}
+{"msg":"→ ELECTION to 4","tick":43,"uid":3}
+{"msg":"→ ELECTION to 5","tick":43,"uid":3}
+{"msg":"→ ELECTION to 6","tick":43,"uid":3}
+{"msg":"→ PING to 2","tick":43,"uid":3}
+{"msg":"→ ELECTION to 5","tick":43,"uid":4}
+{"msg":"→ ELECTION to 6","tick":43,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":43,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":43,"uid":6}
+{"msg":"→ PING to 6","tick":44,"uid":3}
+{"msg":"→ PING to 5","tick":44,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":44,"uid":6}
+{"msg":"→ PING to 3","tick":45,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":45,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":46,"uid":1}
+{"msg":"→ PING to 3","tick":46,"uid":2}
+{"msg":"👑 won election: becoming leader","tick":46,"uid":2}
+{"msg":"→ COORDINATOR to all: I am leader","tick":46,"uid":2}
+{"msg":"→ ACK to 1","tick":46,"uid":3}
+{"msg":"→ PING to 2","tick":46,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":46,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":46,"uid":6}
+{"msg":"→ PING to 3","tick":46,"uid":6}
+{"msg":"→ ELECTION to 2","tick":47,"uid":1}
+{"msg":"→ ELECTION to 3","tick":47,"uid":1}
+{"msg":"→ ELECTION to 4","tick":47,"uid":1}
+{"msg":"→ ELECTION to 5","tick":47,"uid":1}
+{"msg":"→ ELECTION to 6","tick":47,"uid":1}
+{"msg":"← COORDINATOR from 2: accepted as leader","tick":47,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":47,"uid":2}
+{"msg":"→ PING to 4","tick":47,"uid":3}
+{"msg":"→ ACK to 2","tick":47,"uid":3}
+{"msg":"← COORDINATOR from 2: rejected (lower UID), starting election","tick":47,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":47,"uid":3}
+{"msg":"→ COORDINATOR to all: I am leader","tick":47,"uid":3}
+{"msg":"← COORDINATOR from 2: rejected (lower UID), starting election","tick":47,"uid":4}
+{"msg":"👑 won election: becoming leader","tick":47,"uid":4}
+{"msg":"→ COORDINATOR to all: I am leader","tick":47,"uid":4}
+{"msg":"→ ELECTION to 6","tick":47,"uid":5}
+{"msg":"← COORDINATOR from 2: rejected (lower UID), starting election","tick":47,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":47,"uid":6}
+{"msg":"→ PING to 2","tick":47,"uid":6}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":48,"uid":1}
+{"msg":"← HEARTBEAT from 2","tick":48,"uid":1}
+{"msg":"← COORDINATOR from 3: accepted as leader","tick":48,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":48,"uid":2}
+{"msg":"→ OK to 1","tick":48,"uid":2}
+{"msg":"← ELECTION from 1: starting own election","tick":48,"uid":2}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":48,"uid":2}
+{"msg":"← COORDINATOR from 3: accepted as leader","tick":48,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":48,"uid":3}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":48,"uid":3}
+{"msg":"→ OK to 1","tick":48,"uid":3}
+{"msg":"← ELECTION from 1: starting own election","tick":48,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":48,"uid":4}
+{"msg":"→ ACK to 3","tick":48,"uid":4}
+{"msg":"→ OK to 1","tick":48,"uid":4}
+{"msg":"← ELECTION from 1: starting own election","tick":48,"uid":4}
+{"msg":"← COORDINATOR from 3: rejected (lower UID), starting election","tick":48,"uid":4}
+{"msg":"← COORDINATOR from 3: rejected (lower UID), starting election","tick":48,"uid":5}
+{"msg":"← COORDINATOR from 4: rejected (lower UID), starting election","tick":48,"uid":5}
+{"msg":"→ OK to 1","tick":48,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":48,"uid":6}
+{"msg":"← HEARTBEAT from 4","tick":49,"uid":1}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":49,"uid":1}
+{"msg":"← HEARTBEAT from 2","tick":49,"uid":1}
+{"msg":"← HEARTBEAT from 3","tick":49,"uid":1}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":49,"uid":1}
+{"msg":"← OK from 2: yielding, waiting for COORDINATOR","tick":49,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":49,"uid":1}
+{"msg":"← HEARTBEAT from 4","tick":49,"uid":2}
+{"msg":"← HEARTBEAT from 3","tick":49,"uid":2}
+{"msg":"→ ELECTION to 4","tick":49,"uid":3}
+{"msg":"→ ELECTION to 5","tick":49,"uid":3}
+{"msg":"→ ELECTION to 6","tick":49,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":49,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":49,"uid":4}
+{"msg":"→ ELECTION to 5","tick":49,"uid":4}
+{"msg":"→ ELECTION to 6","tick":49,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":49,"uid":6}
+{"msg":"← HEARTBEAT from 4","tick":50,"uid":1}
+{"msg":"← HEARTBEAT from 4","tick":50,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":50,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":50,"uid":4}
+{"msg":"→ OK to 3","tick":50,"uid":4}
+{"msg":"→ PING to 2","tick":50,"uid":5}
+{"msg":"→ OK to 3","tick":50,"uid":5}
+{"msg":"→ OK to 4","tick":50,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":50,"uid":6}
+{"msg":"→ PING to 3","tick":50,"uid":6}
+{"msg":"→ PING to 3","tick":51,"uid":2}
+{"msg":"→ ACK to 5","tick":51,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":51,"uid":2}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":51,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":51,"uid":3}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":51,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":51,"uid":4}
+{"msg":"→ PING to 2","tick":51,"uid":4}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":51,"uid":4}
+{"msg":"👑 won election: becoming leader","tick":51,"uid":5}
+{"msg":"→ COORDINATOR to all: I am leader","tick":51,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":51,"uid":6}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":52,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":52,"uid":2}
+{"msg":"→ ACK to 4","tick":52,"uid":2}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":52,"uid":3}
+{"msg":"→ ACK to 2","tick":52,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":52,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":52,"uid":4}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":52,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":52,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":52,"uid":6}
+{"msg":"→ PING to 4","tick":52,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":53,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":53,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":53,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":53,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":53,"uid":3}
+{"msg":"→ PING to 3","tick":53,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":53,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":53,"uid":5}
+{"msg":"→ PING to 4","tick":53,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":53,"uid":6}
+{"msg":"→ ELECTION to 2","tick":54,"uid":1}
+{"msg":"→ ELECTION to 3","tick":54,"uid":1}
+{"msg":"→ ELECTION to 4","tick":54,"uid":1}
+{"msg":"→ ELECTION to 5","tick":54,"uid":1}
+{"msg":"→ ELECTION to 6","tick":54,"uid":1}
+{"msg":"→ PING to 3","tick":54,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":54,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":54,"uid":1}
+{"msg":"→ PING to 6","tick":54,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":54,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":54,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":54,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":54,"uid":3}
+{"msg":"→ ACK to 4","tick":54,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":54,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":54,"uid":4}
+{"msg":"→ ACK to 5","tick":54,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":54,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":54,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":54,"uid":6}
+{"msg":"→ PING to 4","tick":54,"uid":6}
+{"msg":"→ ACK to 2","tick":54,"uid":6}
+{"msg":"→ PING to 6","tick":55,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":55,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":55,"uid":1}
+{"msg":"→ OK to 1","tick":55,"uid":2}
+{"msg":"← ELECTION from 1: starting own election","tick":55,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":55,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":55,"uid":2}
+{"msg":"→ PING to 5","tick":55,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":55,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":55,"uid":3}
+{"msg":"→ OK to 1","tick":55,"uid":3}
+{"msg":"← ELECTION from 1: starting own election","tick":55,"uid":3}
+{"msg":"→ ACK to 1","tick":55,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":55,"uid":4}
+{"msg":"→ OK to 1","tick":55,"uid":4}
+{"msg":"← ELECTION from 1: starting own election","tick":55,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":55,"uid":4}
+{"msg":"→ ACK to 6","tick":55,"uid":4}
+{"msg":"→ OK to 1","tick":55,"uid":5}
+{"msg":"← ELECTION from 1: starting own election","tick":55,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":55,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":55,"uid":6}
+{"msg":"→ OK to 1","tick":55,"uid":6}
+{"msg":"← ELECTION from 1: starting own election","tick":55,"uid":6}
+{"msg":"← OK from 2: yielding, waiting for COORDINATOR","tick":56,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":56,"uid":1}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":56,"uid":1}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":56,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":56,"uid":1}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":56,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":56,"uid":2}
+{"msg":"→ ELECTION to 4","tick":56,"uid":3}
+{"msg":"→ ELECTION to 5","tick":56,"uid":3}
+{"msg":"→ ELECTION to 6","tick":56,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":56,"uid":4}
+{"msg":"→ ACK to 3","tick":56,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":56,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":56,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":56,"uid":6}
+{"msg":"→ ACK to 1","tick":56,"uid":6}
+{"msg":"→ PING to 6","tick":57,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":57,"uid":1}
+{"msg":"→ PING to 6","tick":57,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":57,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":57,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":57,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":57,"uid":6}
+{"msg":"→ PING to 4","tick":57,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":58,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":58,"uid":2}
+{"msg":"→ PING to 2","tick":58,"uid":3}
+{"msg":"→ PING to 1","tick":58,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":58,"uid":4}
+{"msg":"→ ACK to 6","tick":58,"uid":4}
+{"msg":"→ PING to 2","tick":58,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":58,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":58,"uid":6}
+{"msg":"→ ACK to 2","tick":58,"uid":6}
+{"msg":"→ ACK to 1","tick":58,"uid":6}
+{"msg":"→ ACK to 4","tick":59,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":59,"uid":1}
+{"msg":"→ ACK to 5","tick":59,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":59,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":59,"uid":4}
+{"msg":"→ PING to 4","tick":59,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":59,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":59,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":60,"uid":1}
+{"msg":"→ PING to 1","tick":60,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":60,"uid":2}
+{"msg":"→ PING to 2","tick":60,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":60,"uid":3}
+{"msg":"→ COORDINATOR to all: I am leader","tick":60,"uid":3}
+{"msg":"→ PING to 3","tick":60,"uid":4}
+{"msg":"→ ACK to 5","tick":60,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":60,"uid":4}
+{"msg":"→ PING to 4","tick":60,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":60,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":60,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":60,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":60,"uid":6}
+{"msg":"→ ACK to 2","tick":61,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":61,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":61,"uid":1}
+{"msg":"→ PING to 1","tick":61,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":61,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":61,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":61,"uid":3}
+{"msg":"→ ACK to 4","tick":61,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":61,"uid":3}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":61,"uid":3}
+{"msg":"→ ACK to 5","tick":61,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":61,"uid":4}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":61,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":61,"uid":5}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":61,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":61,"uid":6}
+{"msg":"→ ACK to 2","tick":62,"uid":1}
+{"msg":"← HEARTBEAT from 3","tick":62,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":62,"uid":1}
+{"msg":"← HEARTBEAT from 3","tick":62,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":62,"uid":2}
+{"msg":"→ PING to 6","tick":62,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":62,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":62,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":62,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":62,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":63,"uid":6}
+{"msg":"→ PING to 6","tick":64,"uid":1}
+{"msg":"→ PING to 2","tick":64,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":64,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":65,"uid":1}
+{"msg":"→ ACK to 4","tick":65,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":65,"uid":2}
+{"msg":"→ PING to 2","tick":65,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":65,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":65,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":65,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":65,"uid":6}
+{"msg":"→ PING to 2","tick":65,"uid":6}
+{"msg":"→ ELECTION to 2","tick":66,"uid":1}
+{"msg":"→ ELECTION to 3","tick":66,"uid":1}
+{"msg":"→ ELECTION to 4","tick":66,"uid":1}
+{"msg":"→ ELECTION to 5","tick":66,"uid":1}
+{"msg":"→ ELECTION to 6","tick":66,"uid":1}
+{"msg":"→ ELECTION to 3","tick":66,"uid":2}
+{"msg":"→ ELECTION to 4","tick":66,"uid":2}
+{"msg":"→ ELECTION to 5","tick":66,"uid":2}
+{"msg":"→ ELECTION to 6","tick":66,"uid":2}
+{"msg":"→ ACK to 3","tick":66,"uid":2}
+{"msg":"→ ELECTION to 4","tick":66,"uid":3}
+{"msg":"→ ELECTION to 5","tick":66,"uid":3}
+{"msg":"→ ELECTION to 6","tick":66,"uid":3}
+{"msg":"→ OK to 2","tick":66,"uid":3}
+{"msg":"→ ELECTION to 5","tick":66,"uid":4}
+{"msg":"→ ELECTION to 6","tick":66,"uid":4}
+{"msg":"→ PING to 5","tick":66,"uid":4}
+{"msg":"→ ELECTION to 6","tick":66,"uid":5}
+{"msg":"→ PING to 1","tick":66,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":66,"uid":6}
+{"msg":"→ PING to 1","tick":67,"uid":2}
+{"msg":"→ OK to 1","tick":67,"uid":2}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":67,"uid":2}
+{"msg":"→ OK to 1","tick":67,"uid":3}
+{"msg":"→ PING to 5","tick":67,"uid":4}
+{"msg":"→ OK to 3","tick":67,"uid":4}
+{"msg":"→ OK to 1","tick":67,"uid":4}
+{"msg":"→ OK to 2","tick":67,"uid":4}
+{"msg":"→ OK to 1","tick":67,"uid":5}
+{"msg":"→ OK to 2","tick":67,"uid":5}
+{"msg":"→ OK to 3","tick":67,"uid":5}
+{"msg":"→ OK to 4","tick":67,"uid":5}
+{"msg":"→ ACK to 4","tick":67,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":67,"uid":6}
+{"msg":"→ OK to 2","tick":67,"uid":6}
+{"msg":"← ELECTION from 2: starting own election","tick":67,"uid":6}
+{"msg":"→ OK to 3","tick":67,"uid":6}
+{"msg":"→ OK to 4","tick":67,"uid":6}
+{"msg":"→ OK to 5","tick":67,"uid":6}
+{"msg":"→ OK to 1","tick":67,"uid":6}
+{"msg":"→ PING to 5","tick":68,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":68,"uid":2}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":68,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":68,"uid":2}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":68,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":68,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":68,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":68,"uid":3}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":68,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":68,"uid":3}
+{"msg":"→ ACK to 6","tick":68,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":68,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":68,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":68,"uid":4}
+{"msg":"→ PING to 6","tick":68,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":68,"uid":5}
+{"msg":"→ ACK to 4","tick":68,"uid":5}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":68,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":68,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":68,"uid":6}
+{"msg":"→ PING to 3","tick":68,"uid":6}
+{"msg":"→ PING to 6","tick":69,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":69,"uid":2}
+{"msg":"→ PING to 5","tick":69,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":69,"uid":4}
+{"msg":"→ ACK to 2","tick":69,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":69,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":69,"uid":6}
+{"msg":"→ PING to 3","tick":69,"uid":6}
+{"msg":"→ ACK to 5","tick":69,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":70,"uid":1}
+{"msg":"→ PING to 5","tick":70,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":70,"uid":2}
+{"msg":"→ PING to 6","tick":70,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":70,"uid":3}
+{"msg":"→ ACK to 6","tick":70,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":70,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":70,"uid":6}
+{"msg":"→ ACK to 2","tick":70,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":71,"uid":1}
+{"msg":"→ PING to 1","tick":71,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":71,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":71,"uid":3}
+{"msg":"→ PING to 3","tick":71,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":71,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":71,"uid":6}
+{"msg":"→ ACK to 3","tick":71,"uid":6}
+{"msg":"→ ACK to 2","tick":72,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":72,"uid":1}
+{"msg":"→ PING to 4","tick":72,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":72,"uid":2}
+{"msg":"→ ACK to 4","tick":72,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":72,"uid":3}
+{"msg":"→ PING to 1","tick":72,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":72,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":72,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":72,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":72,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":72,"uid":6}
+{"msg":"→ PING to 4","tick":73,"uid":1}
+{"msg":"→ ACK to 4","tick":73,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":73,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":73,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":73,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":73,"uid":2}
+{"msg":"→ PING to 6","tick":73,"uid":3}
+{"msg":"→ ACK to 2","tick":73,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":73,"uid":4}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":73,"uid":4}
+{"msg":"→ ELECTION to 6","tick":73,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":73,"uid":6}
+{"msg":"→ PING to 1","tick":73,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":74,"uid":2}
+{"msg":"→ ACK to 1","tick":74,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":74,"uid":4}
+{"msg":"→ PING to 6","tick":74,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":74,"uid":6}
+{"msg":"→ PING to 3","tick":74,"uid":6}
+{"msg":"→ PING to 5","tick":75,"uid":1}
+{"msg":"→ PING to 4","tick":75,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":75,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":75,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":75,"uid":4}
+{"msg":"→ PING to 1","tick":75,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":75,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":75,"uid":6}
+{"msg":"→ PING to 3","tick":75,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":76,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":76,"uid":2}
+{"msg":"→ ELECTION to 4","tick":76,"uid":3}
+{"msg":"→ ELECTION to 5","tick":76,"uid":3}
+{"msg":"→ ELECTION to 6","tick":76,"uid":3}
+{"msg":"→ PING to 2","tick":76,"uid":3}
+{"msg":"→ ACK to 2","tick":76,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":76,"uid":4}
+{"msg":"→ PING to 1","tick":76,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":76,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":76,"uid":6}
+{"msg":"→ ELECTION to 2","tick":77,"uid":1}
+{"msg":"→ ELECTION to 3","tick":77,"uid":1}
+{"msg":"→ ELECTION to 4","tick":77,"uid":1}
+{"msg":"→ ELECTION to 5","tick":77,"uid":1}
+{"msg":"→ ELECTION to 6","tick":77,"uid":1}
+{"msg":"→ PING to 3","tick":77,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":77,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":77,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":77,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":77,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":78,"uid":2}
+{"msg":"→ ACK to 2","tick":78,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":78,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":78,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":78,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":78,"uid":6}
+{"msg":"→ PING to 1","tick":78,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":79,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":79,"uid":3}
+{"msg":"→ PING to 6","tick":79,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":79,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":79,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":79,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":80,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":80,"uid":3}
+{"msg":"→ PING to 3","tick":80,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":80,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":80,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":80,"uid":6}
+{"msg":"→ ACK to 4","tick":80,"uid":6}
+{"msg":"→ PING to 4","tick":81,"uid":1}
+{"msg":"👑 won election: becoming leader","tick":81,"uid":1}
+{"msg":"→ COORDINATOR to all: I am leader","tick":81,"uid":1}
+{"msg":"→ PING to 5","tick":81,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":81,"uid":2}
+{"msg":"→ ACK to 4","tick":81,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":81,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":81,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":81,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":81,"uid":6}
+{"msg":"→ PING to 4","tick":81,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":82,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":82,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":82,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":82,"uid":4}
+{"msg":"→ ACK to 6","tick":82,"uid":4}
+{"msg":"→ ACK to 2","tick":82,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":82,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":82,"uid":6}
+{"msg":"→ PING to 5","tick":82,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":83,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":83,"uid":2}
+{"msg":"→ PING to 1","tick":83,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":83,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":83,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":83,"uid":5}
+{"msg":"→ ACK to 6","tick":83,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":83,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":84,"uid":1}
+{"msg":"→ PING to 2","tick":84,"uid":1}
+{"msg":"→ ACK to 3","tick":84,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":84,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":84,"uid":2}
+{"msg":"→ PING to 1","tick":84,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":84,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":84,"uid":4}
+{"msg":"→ PING to 2","tick":84,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":84,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":84,"uid":6}
+{"msg":"→ PING to 2","tick":85,"uid":1}
+{"msg":"→ ACK to 3","tick":85,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":85,"uid":1}
+{"msg":"→ ACK to 5","tick":85,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":85,"uid":2}
+{"msg":"→ ACK to 1","tick":85,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":85,"uid":3}
+{"msg":"→ PING to 6","tick":85,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":85,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":85,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":85,"uid":6}
+{"msg":"→ PING to 3","tick":85,"uid":6}
+{"msg":"→ PING to 4","tick":86,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":86,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":86,"uid":2}
+{"msg":"→ ACK to 1","tick":86,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":86,"uid":3}
+{"msg":"→ ACK to 6","tick":86,"uid":3}
+{"msg":"→ PING to 2","tick":86,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":86,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":86,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":86,"uid":6}
+{"msg":"→ PING to 4","tick":86,"uid":6}
+{"msg":"→ ACK to 4","tick":86,"uid":6}
+{"msg":"→ PING to 4","tick":87,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":87,"uid":1}
+{"msg":"→ PING to 1","tick":87,"uid":2}
+{"msg":"→ ACK to 4","tick":87,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":87,"uid":2}
+{"msg":"→ PING to 6","tick":87,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":87,"uid":3}
+{"msg":"→ ACK to 1","tick":87,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":87,"uid":4}
+{"msg":"→ ACK to 6","tick":87,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":87,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":87,"uid":6}
+{"msg":"→ PING to 2","tick":87,"uid":6}
+{"msg":"→ ACK to 2","tick":88,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":88,"uid":1}
+{"msg":"→ PING to 5","tick":88,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":88,"uid":2}
+{"msg":"→ ACK to 6","tick":88,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":88,"uid":3}
+{"msg":"→ PING to 2","tick":88,"uid":4}
+{"msg":"→ ACK to 1","tick":88,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":88,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":88,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":88,"uid":6}
+{"msg":"→ PING to 1","tick":88,"uid":6}
+{"msg":"→ ACK to 3","tick":88,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":89,"uid":1}
+{"msg":"→ ACK to 6","tick":89,"uid":1}
+{"msg":"→ ACK to 4","tick":89,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":89,"uid":2}
+{"msg":"→ PING to 4","tick":89,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":89,"uid":3}
+{"msg":"→ PING to 5","tick":89,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":89,"uid":4}
+{"msg":"→ PING to 4","tick":89,"uid":5}
+{"msg":"→ ACK to 2","tick":89,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":89,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":89,"uid":6}
+{"msg":"→ PING to 2","tick":90,"uid":4}
+{"msg":"→ ACK to 3","tick":90,"uid":4}
+{"msg":"→ ACK to 5","tick":90,"uid":4}
+{"msg":"→ ACK to 4","tick":90,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":90,"uid":6}
+{"msg":"→ ACK to 4","tick":91,"uid":2}
+{"msg":"→ PING to 4","tick":91,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":91,"uid":6}
+{"msg":"→ PING to 3","tick":92,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":92,"uid":1}
+{"msg":"→ PING to 1","tick":92,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":92,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":92,"uid":3}
+{"msg":"→ ACK to 3","tick":92,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":92,"uid":4}
+{"msg":"→ PING to 2","tick":92,"uid":5}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":92,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":92,"uid":6}
+{"msg":"→ ELECTION to 2","tick":93,"uid":1}
+{"msg":"→ ELECTION to 3","tick":93,"uid":1}
+{"msg":"→ ELECTION to 4","tick":93,"uid":1}
+{"msg":"→ ELECTION to 5","tick":93,"uid":1}
+{"msg":"→ ELECTION to 6","tick":93,"uid":1}
+{"msg":"→ ACK to 2","tick":93,"uid":1}
+{"msg":"→ ELECTION to 3","tick":93,"uid":2}
+{"msg":"→ ELECTION to 4","tick":93,"uid":2}
+{"msg":"→ ELECTION to 5","tick":93,"uid":2}
+{"msg":"→ ELECTION to 6","tick":93,"uid":2}
+{"msg":"→ ELECTION to 4","tick":93,"uid":3}
+{"msg":"→ ELECTION to 5","tick":93,"uid":3}
+{"msg":"→ ELECTION to 6","tick":93,"uid":3}
+{"msg":"→ ACK to 1","tick":93,"uid":3}
+{"msg":"→ ELECTION to 5","tick":93,"uid":4}
+{"msg":"→ ELECTION to 6","tick":93,"uid":4}
+{"msg":"→ PING to 6","tick":93,"uid":4}
+{"msg":"→ ELECTION to 6","tick":93,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":93,"uid":6}
+{"msg":"→ PING to 2","tick":93,"uid":6}
+{"msg":"→ OK to 1","tick":94,"uid":2}
+{"msg":"→ OK to 1","tick":94,"uid":3}
+{"msg":"→ OK to 2","tick":94,"uid":3}
+{"msg":"→ OK to 1","tick":94,"uid":4}
+{"msg":"→ OK to 2","tick":94,"uid":4}
+{"msg":"→ OK to 3","tick":94,"uid":4}
+{"msg":"→ PING to 2","tick":94,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":94,"uid":6}
+{"msg":"→ OK to 2","tick":94,"uid":6}
+{"msg":"← ELECTION from 2: starting own election","tick":94,"uid":6}
+{"msg":"→ OK to 3","tick":94,"uid":6}
+{"msg":"→ OK to 4","tick":94,"uid":6}
+{"msg":"→ OK to 1","tick":94,"uid":6}
+{"msg":"→ ACK to 4","tick":94,"uid":6}
+{"msg":"→ PING to 3","tick":95,"uid":1}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":95,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":95,"uid":1}
+{"msg":"← OK from 2: yielding, waiting for COORDINATOR","tick":95,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":95,"uid":1}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":95,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":95,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":95,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":95,"uid":2}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":95,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":95,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":95,"uid":3}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":95,"uid":3}
+{"msg":"→ PING to 3","tick":95,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":95,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":95,"uid":4}
+{"msg":"→ PING to 6","tick":95,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":95,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":95,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":96,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":96,"uid":2}
+{"msg":"→ PING to 5","tick":96,"uid":3}
+{"msg":"→ ACK to 1","tick":96,"uid":3}
+{"msg":"→ ACK to 4","tick":96,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":96,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":96,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":96,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":96,"uid":6}
+{"msg":"→ PING to 4","tick":96,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":97,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":97,"uid":2}
+{"msg":"→ PING to 1","tick":97,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":97,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":97,"uid":4}
+{"msg":"→ ACK to 6","tick":97,"uid":4}
+{"msg":"→ PING to 4","tick":97,"uid":5}
+{"msg":"→ ACK to 3","tick":97,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":97,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":97,"uid":6}
+{"msg":"→ ACK to 3","tick":98,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":98,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":98,"uid":2}
+{"msg":"→ PING to 5","tick":98,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":98,"uid":3}
+{"msg":"→ ACK to 5","tick":98,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":98,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":98,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":98,"uid":6}
+{"msg":"→ PING to 1","tick":99,"uid":2}
+{"msg":"→ PING to 3","tick":99,"uid":4}
+{"msg":"→ ACK to 3","tick":99,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":99,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":99,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":99,"uid":6}
+{"msg":"→ PING to 6","tick":100,"uid":1}
+{"msg":"→ ACK to 4","tick":100,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":100,"uid":6}
+{"msg":"→ PING to 2","tick":100,"uid":6}
+{"msg":"→ PING to 3","tick":101,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":101,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":101,"uid":2}
+{"msg":"→ PING to 6","tick":101,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":101,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":101,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":101,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":101,"uid":6}
+{"msg":"→ ELECTION to 2","tick":102,"uid":1}
+{"msg":"→ ELECTION to 3","tick":102,"uid":1}
+{"msg":"→ ELECTION to 4","tick":102,"uid":1}
+{"msg":"→ ELECTION to 5","tick":102,"uid":1}
+{"msg":"→ ELECTION to 6","tick":102,"uid":1}
+{"msg":"→ PING to 3","tick":102,"uid":1}
+{"msg":"→ ELECTION to 3","tick":102,"uid":2}
+{"msg":"→ ELECTION to 4","tick":102,"uid":2}
+{"msg":"→ ELECTION to 5","tick":102,"uid":2}
+{"msg":"→ ELECTION to 6","tick":102,"uid":2}
+{"msg":"→ ELECTION to 4","tick":102,"uid":3}
+{"msg":"→ ELECTION to 5","tick":102,"uid":3}
+{"msg":"→ ELECTION to 6","tick":102,"uid":3}
+{"msg":"→ PING to 2","tick":102,"uid":3}
+{"msg":"→ ELECTION to 5","tick":102,"uid":4}
+{"msg":"→ ELECTION to 6","tick":102,"uid":4}
+{"msg":"→ ELECTION to 6","tick":102,"uid":5}
+{"msg":"→ PING to 6","tick":102,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":102,"uid":6}
+{"msg":"→ PING to 4","tick":103,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":103,"uid":6}
+{"msg":"→ PING to 5","tick":103,"uid":6}
+{"msg":"→ OK to 4","tick":103,"uid":6}
+{"msg":"← ELECTION from 4: starting own election","tick":103,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":104,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":104,"uid":4}
+{"msg":"→ PING to 1","tick":104,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":104,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":104,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":105,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":105,"uid":6}
+{"msg":"→ PING to 4","tick":106,"uid":1}
+{"msg":"👑 won election: becoming leader","tick":106,"uid":1}
+{"msg":"→ COORDINATOR to all: I am leader","tick":106,"uid":1}
+{"msg":"→ PING to 5","tick":106,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":106,"uid":2}
+{"msg":"→ PING to 5","tick":106,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":106,"uid":3}
+{"msg":"→ COORDINATOR to all: I am leader","tick":106,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":106,"uid":4}
+{"msg":"→ PING to 6","tick":106,"uid":5}
+{"msg":"👑 won election: becoming leader","tick":106,"uid":5}
+{"msg":"→ COORDINATOR to all: I am leader","tick":106,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":106,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":107,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":107,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":107,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":107,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":107,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":107,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":107,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":108,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":108,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":108,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":108,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":108,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":108,"uid":5}
+{"msg":"→ PING to 3","tick":108,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":108,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":108,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":108,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":108,"uid":6}
+{"msg":"← HEARTBEAT from 3","tick":109,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":109,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":109,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":109,"uid":1}
+{"msg":"← HEARTBEAT from 3","tick":109,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":109,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":109,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":109,"uid":2}
+{"msg":"→ PING to 6","tick":109,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":109,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":109,"uid":3}
+{"msg":"→ ACK to 5","tick":109,"uid":3}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":109,"uid":3}
+{"msg":"→ PING to 2","tick":109,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":109,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":109,"uid":4}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":109,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":109,"uid":5}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":109,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":109,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":110,"uid":1}
+{"msg":"→ ACK to 4","tick":110,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":110,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":110,"uid":3}
+{"msg":"→ PING to 3","tick":110,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":110,"uid":4}
+{"msg":"→ PING to 1","tick":110,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":110,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":110,"uid":6}
+{"msg":"→ ACK to 3","tick":110,"uid":6}
+{"msg":"→ ACK to 5","tick":111,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":111,"uid":1}
+{"msg":"→ PING to 6","tick":111,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":111,"uid":2}
+{"msg":"→ ACK to 4","tick":111,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":111,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":111,"uid":4}
+{"msg":"→ PING to 4","tick":111,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":111,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":111,"uid":6}
+{"msg":"→ PING to 6","tick":112,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":112,"uid":1}
+{"msg":"→ PING to 6","tick":112,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":112,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":112,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":112,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":112,"uid":6}
+{"msg":"→ ACK to 2","tick":112,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":113,"uid":1}
+{"msg":"→ PING to 1","tick":113,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":113,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":113,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":113,"uid":6}
+{"msg":"→ ACK to 1","tick":113,"uid":6}
+{"msg":"→ ACK to 2","tick":113,"uid":6}
+{"msg":"→ ACK to 2","tick":114,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":114,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":114,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":114,"uid":3}
+{"msg":"→ PING to 5","tick":114,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":114,"uid":4}
+{"msg":"→ PING to 3","tick":114,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":114,"uid":6}
+{"msg":"→ PING to 4","tick":114,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":115,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":115,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":115,"uid":3}
+{"msg":"→ ELECTION to 5","tick":115,"uid":4}
+{"msg":"→ ELECTION to 6","tick":115,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":115,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":115,"uid":6}
+{"msg":"→ PING to 5","tick":116,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":116,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":116,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":116,"uid":3}
+{"msg":"→ ELECTION to 6","tick":116,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":116,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":117,"uid":1}
+{"msg":"→ PING to 3","tick":117,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":117,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":117,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":117,"uid":6}
+{"msg":"→ PING to 2","tick":117,"uid":6}
+{"msg":"→ ACK to 2","tick":118,"uid":3}
+{"msg":"→ PING to 6","tick":118,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":118,"uid":6}
+{"msg":"→ PING to 4","tick":118,"uid":6}
+{"msg":"→ PING to 4","tick":119,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":119,"uid":4}
+{"msg":"→ COORDINATOR to all: I am leader","tick":119,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":119,"uid":6}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":120,"uid":1}
+{"msg":"→ PING to 4","tick":120,"uid":2}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":120,"uid":2}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":120,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":120,"uid":4}
+{"msg":"→ ACK to 3","tick":120,"uid":4}
+{"msg":"→ PING to 1","tick":120,"uid":5}
+{"msg":"← COORDINATOR from 4: rejected (lower UID), starting election","tick":120,"uid":5}
+{"msg":"👑 won election: becoming leader","tick":120,"uid":5}
+{"msg":"→ COORDINATOR to all: I am leader","tick":120,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":120,"uid":6}
+{"msg":"→ ACK to 5","tick":121,"uid":1}
+{"msg":"← HEARTBEAT from 4","tick":121,"uid":1}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":121,"uid":1}
+{"msg":"→ PING to 6","tick":121,"uid":2}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":121,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":121,"uid":2}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":121,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":121,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":121,"uid":4}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":121,"uid":4}
+{"msg":"→ ACK to 2","tick":121,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":121,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":121,"uid":6}
+{"msg":"← HEARTBEAT from 4","tick":122,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":122,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":122,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":122,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":122,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":122,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":122,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":122,"uid":5}
+{"msg":"→ PING to 6","tick":122,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":122,"uid":6}
+{"msg":"← HEARTBEAT from 5","tick":123,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":123,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":123,"uid":3}
+{"msg":"→ PING to 1","tick":123,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":123,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":123,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":123,"uid":6}
+{"msg":"→ PING to 1","tick":123,"uid":6}
+{"msg":"→ ACK to 4","tick":124,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":124,"uid":1}
+{"msg":"→ PING to 5","tick":124,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":124,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":124,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":124,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":124,"uid":5}
+{"msg":"→ ACK to 2","tick":124,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":124,"uid":6}
+{"msg":"← HEARTBEAT from 5","tick":125,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":125,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":125,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":125,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":125,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":125,"uid":6}
+{"msg":"← HEARTBEAT from 5","tick":126,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":126,"uid":3}
+{"msg":"→ PING to 1","tick":126,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":126,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":126,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":126,"uid":6}
+{"msg":"→ PING to 5","tick":127,"uid":1}
+{"msg":"→ ACK to 4","tick":127,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":127,"uid":1}
+{"msg":"→ PING to 4","tick":127,"uid":2}
+{"msg":"→ PING to 4","tick":127,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":127,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":127,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":127,"uid":5}
+{"msg":"→ PING to 2","tick":127,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":127,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":128,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":128,"uid":1}
+{"msg":"→ PING to 5","tick":128,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":128,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":128,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":128,"uid":3}
+{"msg":"→ PING to 5","tick":128,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":128,"uid":4}
+{"msg":"→ ACK to 3","tick":128,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":128,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":128,"uid":5}
+{"msg":"→ PING to 6","tick":128,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":128,"uid":5}
+{"msg":"→ ACK to 1","tick":128,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":128,"uid":6}
+{"msg":"← HEARTBEAT from 5","tick":129,"uid":1}
+{"msg":"→ ELECTION to 3","tick":129,"uid":2}
+{"msg":"→ ELECTION to 4","tick":129,"uid":2}
+{"msg":"→ ELECTION to 5","tick":129,"uid":2}
+{"msg":"→ ELECTION to 6","tick":129,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":129,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":129,"uid":4}
+{"msg":"→ PING to 2","tick":129,"uid":5}
+{"msg":"→ ACK to 4","tick":129,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":129,"uid":6}
+{"msg":"→ PING to 3","tick":130,"uid":1}
+{"msg":"→ PING to 6","tick":130,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":130,"uid":6}
+{"msg":"→ ACK to 1","tick":131,"uid":3}
+{"msg":"→ PING to 1","tick":131,"uid":5}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":131,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":131,"uid":6}
+{"msg":"→ PING to 4","tick":131,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":132,"uid":1}
+{"msg":"→ PING to 5","tick":132,"uid":2}
+{"msg":"→ PING to 5","tick":132,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":132,"uid":3}
+{"msg":"→ PING to 6","tick":132,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":132,"uid":4}
+{"msg":"→ ELECTION to 6","tick":132,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":132,"uid":6}
+{"msg":"→ ELECTION to 2","tick":133,"uid":1}
+{"msg":"→ ELECTION to 3","tick":133,"uid":1}
+{"msg":"→ ELECTION to 4","tick":133,"uid":1}
+{"msg":"→ ELECTION to 5","tick":133,"uid":1}
+{"msg":"→ ELECTION to 6","tick":133,"uid":1}
+{"msg":"→ PING to 4","tick":133,"uid":2}
+{"msg":"👑 won election: becoming leader","tick":133,"uid":2}
+{"msg":"→ COORDINATOR to all: I am leader","tick":133,"uid":2}
+{"msg":"→ ELECTION to 4","tick":133,"uid":3}
+{"msg":"→ ELECTION to 5","tick":133,"uid":3}
+{"msg":"→ ELECTION to 6","tick":133,"uid":3}
+{"msg":"→ ELECTION to 5","tick":133,"uid":4}
+{"msg":"→ ELECTION to 6","tick":133,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":133,"uid":6}
+{"msg":"→ ACK to 4","tick":133,"uid":6}
+{"msg":"→ PING to 2","tick":134,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":134,"uid":1}
+{"msg":"← COORDINATOR from 2: accepted as leader","tick":134,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":134,"uid":2}
+{"msg":"→ PING to 3","tick":134,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":134,"uid":2}
+{"msg":"→ OK to 1","tick":134,"uid":2}
+{"msg":"← ELECTION from 1: starting own election","tick":134,"uid":2}
+{"msg":"→ PING to 5","tick":134,"uid":3}
+{"msg":"← COORDINATOR from 2: rejected (lower UID), starting election","tick":134,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":134,"uid":3}
+{"msg":"→ OK to 1","tick":134,"uid":3}
+{"msg":"← ELECTION from 1: starting own election","tick":134,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":134,"uid":4}
+{"msg":"→ OK to 1","tick":134,"uid":4}
+{"msg":"← ELECTION from 1: starting own election","tick":134,"uid":4}
+{"msg":"→ ACK to 2","tick":134,"uid":4}
+{"msg":"→ OK to 3","tick":134,"uid":4}
+{"msg":"← COORDINATOR from 2: rejected (lower UID), starting election","tick":134,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":134,"uid":6}
+{"msg":"→ PING to 3","tick":134,"uid":6}
+{"msg":"→ OK to 1","tick":134,"uid":6}
+{"msg":"← ELECTION from 1: starting own election","tick":134,"uid":6}
+{"msg":"← COORDINATOR from 2: rejected (lower UID), starting election","tick":134,"uid":6}
+{"msg":"→ OK to 3","tick":134,"uid":6}
+{"msg":"→ OK to 4","tick":134,"uid":6}
+{"msg":"→ PING to 5","tick":135,"uid":1}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":135,"uid":1}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":135,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":135,"uid":1}
+{"msg":"← HEARTBEAT from 2","tick":135,"uid":1}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":135,"uid":1}
+{"msg":"← OK from 2: yielding, waiting for COORDINATOR","tick":135,"uid":1}
+{"msg":"→ ELECTION to 3","tick":135,"uid":2}
+{"msg":"→ ELECTION to 4","tick":135,"uid":2}
+{"msg":"→ ELECTION to 5","tick":135,"uid":2}
+{"msg":"→ ELECTION to 6","tick":135,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":135,"uid":2}
+{"msg":"→ ACK to 1","tick":135,"uid":2}
+{"msg":"→ ELECTION to 4","tick":135,"uid":3}
+{"msg":"→ ELECTION to 5","tick":135,"uid":3}
+{"msg":"→ ELECTION to 6","tick":135,"uid":3}
+{"msg":"→ PING to 5","tick":135,"uid":3}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":135,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":135,"uid":3}
+{"msg":"→ ACK to 2","tick":135,"uid":3}
+{"msg":"→ ACK to 6","tick":135,"uid":3}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":135,"uid":3}
+{"msg":"→ ELECTION to 5","tick":135,"uid":4}
+{"msg":"→ ELECTION to 6","tick":135,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":135,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":135,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":135,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":135,"uid":6}
+{"msg":"→ PING to 5","tick":135,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":136,"uid":1}
+{"msg":"→ PING to 6","tick":136,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":136,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":136,"uid":2}
+{"msg":"← OK from 3: yielding, waiting for COORDINATOR","tick":136,"uid":2}
+{"msg":"→ OK to 2","tick":136,"uid":3}
+{"msg":"← ELECTION from 2: starting own election","tick":136,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":136,"uid":3}
+{"msg":"→ OK to 2","tick":136,"uid":4}
+{"msg":"← ELECTION from 2: starting own election","tick":136,"uid":4}
+{"msg":"→ OK to 3","tick":136,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":136,"uid":4}
+{"msg":"→ OK to 4","tick":136,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":136,"uid":5}
+{"msg":"→ ACK to 1","tick":136,"uid":5}
+{"msg":"→ OK to 2","tick":136,"uid":5}
+{"msg":"← ELECTION from 2: starting own election","tick":136,"uid":5}
+{"msg":"→ OK to 3","tick":136,"uid":5}
+{"msg":"→ ACK to 6","tick":136,"uid":5}
+{"msg":"→ ACK to 3","tick":136,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":136,"uid":6}
+{"msg":"→ OK to 3","tick":136,"uid":6}
+{"msg":"→ OK to 4","tick":136,"uid":6}
+{"msg":"→ OK to 2","tick":136,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":137,"uid":1}
+{"msg":"→ PING to 5","tick":137,"uid":2}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":137,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":137,"uid":2}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":137,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":137,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":137,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":137,"uid":3}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":137,"uid":3}
+{"msg":"→ PING to 3","tick":137,"uid":4}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":137,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":137,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":137,"uid":4}
+{"msg":"→ ELECTION to 6","tick":137,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":137,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":137,"uid":6}
+{"msg":"→ ACK to 2","tick":137,"uid":6}
+{"msg":"→ PING to 6","tick":138,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":138,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":138,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":138,"uid":4}
+{"msg":"→ PING to 6","tick":138,"uid":5}
+{"msg":"→ ACK to 2","tick":138,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":138,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":138,"uid":6}
+{"msg":"→ OK to 5","tick":138,"uid":6}
+{"msg":"→ PING to 2","tick":139,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":139,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":139,"uid":2}
+{"msg":"→ PING to 4","tick":139,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":139,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":139,"uid":5}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":139,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":139,"uid":6}
+{"msg":"→ PING to 4","tick":139,"uid":6}
+{"msg":"→ ACK to 1","tick":139,"uid":6}
+{"msg":"→ ACK to 5","tick":139,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":139,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":139,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":140,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":140,"uid":1}
+{"msg":"→ ACK to 1","tick":140,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":140,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":140,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":140,"uid":4}
+{"msg":"→ ACK to 6","tick":140,"uid":4}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":140,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":140,"uid":5}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":140,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":140,"uid":6}
+{"msg":"⏱ timeout: no COORDINATOR received, restarting election","tick":141,"uid":3}
+{"msg":"→ PING to 2","tick":141,"uid":4}
+{"msg":"→ PING to 1","tick":141,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":141,"uid":6}
+{"msg":"→ ACK to 5","tick":142,"uid":1}
+{"msg":"→ ACK to 4","tick":142,"uid":2}
+{"msg":"→ ELECTION to 4","tick":142,"uid":3}
+{"msg":"→ ELECTION to 5","tick":142,"uid":3}
+{"msg":"→ ELECTION to 6","tick":142,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":142,"uid":6}
+{"msg":"→ PING to 5","tick":143,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":143,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":143,"uid":2}
+{"msg":"→ PING to 6","tick":143,"uid":4}
+{"msg":"→ OK to 3","tick":143,"uid":4}
+{"msg":"← ELECTION from 3: starting own election","tick":143,"uid":4}
+{"msg":"→ OK to 3","tick":143,"uid":5}
+{"msg":"← ELECTION from 3: starting own election","tick":143,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":143,"uid":6}
+{"msg":"→ PING to 2","tick":143,"uid":6}
+{"msg":"→ ELECTION to 2","tick":144,"uid":1}
+{"msg":"→ ELECTION to 3","tick":144,"uid":1}
+{"msg":"→ ELECTION to 4","tick":144,"uid":1}
+{"msg":"→ ELECTION to 5","tick":144,"uid":1}
+{"msg":"→ ELECTION to 6","tick":144,"uid":1}
+{"msg":"→ PING to 6","tick":144,"uid":1}
+{"msg":"→ ELECTION to 3","tick":144,"uid":2}
+{"msg":"→ ELECTION to 4","tick":144,"uid":2}
+{"msg":"→ ELECTION to 5","tick":144,"uid":2}
+{"msg":"→ ELECTION to 6","tick":144,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":144,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":144,"uid":3}
+{"msg":"→ ELECTION to 5","tick":144,"uid":4}
+{"msg":"→ ELECTION to 6","tick":144,"uid":4}
+{"msg":"→ ELECTION to 6","tick":144,"uid":5}
+{"msg":"→ ACK to 1","tick":144,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":144,"uid":6}
+{"msg":"→ PING to 3","tick":145,"uid":2}
+{"msg":"→ OK to 1","tick":145,"uid":3}
+{"msg":"← ELECTION from 1: starting own election","tick":145,"uid":3}
+{"msg":"→ OK to 2","tick":145,"uid":3}
+{"msg":"→ OK to 1","tick":145,"uid":4}
+{"msg":"→ OK to 2","tick":145,"uid":4}
+{"msg":"→ OK to 2","tick":145,"uid":5}
+{"msg":"→ OK to 4","tick":145,"uid":5}
+{"msg":"→ OK to 1","tick":145,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":145,"uid":6}
+{"msg":"→ PING to 2","tick":146,"uid":1}
+{"msg":"→ ELECTION to 4","tick":146,"uid":3}
+{"msg":"→ ELECTION to 5","tick":146,"uid":3}
+{"msg":"→ ELECTION to 6","tick":146,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":146,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":146,"uid":6}
+{"msg":"→ PING to 6","tick":147,"uid":3}
+{"msg":"→ OK to 3","tick":147,"uid":4}
+{"msg":"← ELECTION from 3: starting own election","tick":147,"uid":4}
+{"msg":"→ OK to 3","tick":147,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":147,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":148,"uid":1}
+{"msg":"→ COORDINATOR to all: I am leader","tick":148,"uid":1}
+{"msg":"👑 won election: becoming leader","tick":148,"uid":2}
+{"msg":"→ COORDINATOR to all: I am leader","tick":148,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":148,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":148,"uid":3}
+{"msg":"→ ELECTION to 5","tick":148,"uid":4}
+{"msg":"→ ELECTION to 6","tick":148,"uid":4}
+{"msg":"→ PING to 2","tick":148,"uid":5}
+{"msg":"👑 won election: becoming leader","tick":148,"uid":5}
+{"msg":"→ COORDINATOR to all: I am leader","tick":148,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":148,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":149,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":149,"uid":2}
+{"msg":"→ PING to 1","tick":149,"uid":3}
+{"msg":"← COORDINATOR from 1: rejected (lower UID), starting election","tick":149,"uid":3}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":149,"uid":3}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":149,"uid":4}
+{"msg":"← COORDINATOR from 1: rejected (lower UID), starting election","tick":149,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":149,"uid":5}
+{"msg":"→ OK to 4","tick":149,"uid":5}
+{"msg":"← ELECTION from 4: starting own election","tick":149,"uid":5}
+{"msg":"← COORDINATOR from 1: rejected (lower UID), starting election","tick":149,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":149,"uid":6}
+{"msg":"→ PING to 5","tick":149,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":150,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":150,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":150,"uid":2}
+{"msg":"→ PING to 5","tick":150,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":150,"uid":3}
+{"msg":"→ ELECTION to 5","tick":150,"uid":4}
+{"msg":"→ ELECTION to 6","tick":150,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":150,"uid":4}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":150,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":150,"uid":5}
+{"msg":"→ ELECTION to 6","tick":150,"uid":5}
+{"msg":"→ PING to 3","tick":150,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":150,"uid":6}
+{"msg":"→ PING to 1","tick":150,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":151,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":151,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":151,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":151,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":151,"uid":3}
+{"msg":"→ ACK to 5","tick":151,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":151,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":151,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":151,"uid":5}
+{"msg":"→ ACK to 3","tick":151,"uid":5}
+{"msg":"→ OK to 4","tick":151,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":151,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":151,"uid":6}
+{"msg":"→ PING to 4","tick":151,"uid":6}
+{"msg":"→ OK to 4","tick":151,"uid":6}
+{"msg":"← ELECTION from 4: starting own election","tick":151,"uid":6}
+{"msg":"→ OK to 5","tick":151,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":152,"uid":1}
+{"msg":"→ PING to 5","tick":152,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":152,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":152,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":152,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":152,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":152,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":152,"uid":4}
+{"msg":"→ ACK to 6","tick":152,"uid":4}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":152,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":152,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":152,"uid":5}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":152,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":152,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":152,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":153,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":153,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":153,"uid":3}
+{"msg":"→ PING to 1","tick":153,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":153,"uid":4}
+{"msg":"→ ACK to 2","tick":153,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":153,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":153,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":154,"uid":1}
+{"msg":"→ ACK to 4","tick":154,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":154,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":154,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":154,"uid":3}
+{"msg":"→ PING to 5","tick":154,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":154,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":154,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":154,"uid":6}
+{"msg":"→ PING to 4","tick":154,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":155,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":155,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":155,"uid":3}
+{"msg":"→ ACK to 5","tick":155,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":155,"uid":4}
+{"msg":"→ ACK to 6","tick":155,"uid":4}
+{"msg":"→ PING to 4","tick":155,"uid":5}
+{"msg":"→ ACK to 4","tick":155,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":155,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":155,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":156,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":156,"uid":2}
+{"msg":"→ PING to 4","tick":156,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":156,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":156,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":156,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":156,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":156,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":156,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":157,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":157,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":157,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":157,"uid":2}
+{"msg":"→ PING to 1","tick":157,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":157,"uid":3}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":157,"uid":3}
+{"msg":"→ PING to 3","tick":157,"uid":4}
+{"msg":"→ ACK to 3","tick":157,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":157,"uid":4}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":157,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":157,"uid":5}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":157,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":157,"uid":6}
+{"msg":"→ PING to 3","tick":157,"uid":6}
+{"msg":"→ ACK to 3","tick":158,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":158,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":158,"uid":2}
+{"msg":"→ PING to 2","tick":158,"uid":3}
+{"msg":"→ ACK to 4","tick":158,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":158,"uid":3}
+{"msg":"→ ACK to 6","tick":158,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":158,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":158,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":158,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":159,"uid":1}
+{"msg":"→ PING to 6","tick":159,"uid":2}
+{"msg":"→ ACK to 3","tick":159,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":159,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":159,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":159,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":159,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":159,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":160,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":160,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":160,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":160,"uid":4}
+{"msg":"→ PING to 4","tick":160,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":160,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":160,"uid":6}
+{"msg":"→ ACK to 2","tick":160,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":161,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":161,"uid":2}
+{"msg":"→ PING to 5","tick":161,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":161,"uid":3}
+{"msg":"→ ACK to 5","tick":161,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":161,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":161,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":161,"uid":6}
+{"msg":"→ PING to 3","tick":162,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":162,"uid":1}
+{"msg":"→ PING to 5","tick":162,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":162,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":162,"uid":3}
+{"msg":"→ PING to 3","tick":162,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":162,"uid":4}
+{"msg":"→ ACK to 3","tick":162,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":162,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":162,"uid":6}
+{"msg":"→ PING to 4","tick":162,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":163,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":163,"uid":2}
+{"msg":"→ ACK to 1","tick":163,"uid":3}
+{"msg":"→ ACK to 4","tick":163,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":163,"uid":3}
+{"msg":"→ ACK to 2","tick":163,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":163,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":163,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":164,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":164,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":164,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":165,"uid":1}
+{"msg":"→ PING to 2","tick":165,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":165,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":165,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":165,"uid":6}
+{"msg":"→ PING to 2","tick":165,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":166,"uid":1}
+{"msg":"→ PING to 3","tick":166,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":166,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":166,"uid":3}
+{"msg":"→ ELECTION to 5","tick":166,"uid":4}
+{"msg":"→ ELECTION to 6","tick":166,"uid":4}
+{"msg":"→ PING to 1","tick":166,"uid":4}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":166,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":166,"uid":6}
+{"msg":"→ PING to 1","tick":166,"uid":6}
+{"msg":"→ ELECTION to 3","tick":167,"uid":2}
+{"msg":"→ ELECTION to 4","tick":167,"uid":2}
+{"msg":"→ ELECTION to 5","tick":167,"uid":2}
+{"msg":"→ ELECTION to 6","tick":167,"uid":2}
+{"msg":"→ ELECTION to 6","tick":167,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":167,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":168,"uid":6}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":169,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":169,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":169,"uid":6}
+{"msg":"→ ELECTION to 2","tick":170,"uid":1}
+{"msg":"→ ELECTION to 3","tick":170,"uid":1}
+{"msg":"→ ELECTION to 4","tick":170,"uid":1}
+{"msg":"→ ELECTION to 5","tick":170,"uid":1}
+{"msg":"→ ELECTION to 6","tick":170,"uid":1}
+{"msg":"→ ELECTION to 4","tick":170,"uid":3}
+{"msg":"→ ELECTION to 5","tick":170,"uid":3}
+{"msg":"→ ELECTION to 6","tick":170,"uid":3}
+{"msg":"→ PING to 6","tick":170,"uid":4}
+{"msg":"👑 won election: becoming leader","tick":170,"uid":4}
+{"msg":"→ COORDINATOR to all: I am leader","tick":170,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":170,"uid":6}
+{"msg":"→ OK to 1","tick":171,"uid":2}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":171,"uid":2}
+{"msg":"→ OK to 1","tick":171,"uid":3}
+{"msg":"← COORDINATOR from 4: accepted as leader","tick":171,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":171,"uid":4}
+{"msg":"→ OK to 1","tick":171,"uid":4}
+{"msg":"← ELECTION from 1: starting own election","tick":171,"uid":4}
+{"msg":"→ OK to 3","tick":171,"uid":4}
+{"msg":"→ PING to 4","tick":171,"uid":5}
+{"msg":"→ OK to 1","tick":171,"uid":5}
+{"msg":"→ OK to 3","tick":171,"uid":5}
+{"msg":"← COORDINATOR from 4: rejected (lower UID), starting election","tick":171,"uid":5}
+{"msg":"👑 won election: becoming leader","tick":171,"uid":5}
+{"msg":"→ COORDINATOR to all: I am leader","tick":171,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":171,"uid":6}
+{"msg":"→ OK to 3","tick":171,"uid":6}
+{"msg":"← ELECTION from 3: starting own election","tick":171,"uid":6}
+{"msg":"→ ACK to 4","tick":171,"uid":6}
+{"msg":"→ OK to 1","tick":171,"uid":6}
+{"msg":"← COORDINATOR from 4: rejected (lower UID), starting election","tick":171,"uid":6}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":172,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":172,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":172,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":172,"uid":4}
+{"msg":"→ ELECTION to 5","tick":172,"uid":4}
+{"msg":"→ ELECTION to 6","tick":172,"uid":4}
+{"msg":"→ ACK to 5","tick":172,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":172,"uid":4}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":172,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":172,"uid":5}
+{"msg":"→ PING to 2","tick":172,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":172,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":172,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":172,"uid":6}
+{"msg":"→ PING to 3","tick":172,"uid":6}
+{"msg":"← COORDINATOR from 5: rejected (lower UID), starting election","tick":172,"uid":6}
+{"msg":"← HEARTBEAT from 5","tick":173,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":173,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":173,"uid":2}
+{"msg":"→ ACK to 5","tick":173,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":173,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":173,"uid":4}
+{"msg":"→ PING to 6","tick":173,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":173,"uid":5}
+{"msg":"→ OK to 4","tick":173,"uid":5}
+{"msg":"← ELECTION from 4: starting own election","tick":173,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":173,"uid":6}
+{"msg":"→ OK to 4","tick":173,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":174,"uid":1}
+{"msg":"→ COORDINATOR to all: I am leader","tick":174,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":174,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":174,"uid":3}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":174,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":174,"uid":4}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":174,"uid":4}
+{"msg":"→ ELECTION to 6","tick":174,"uid":5}
+{"msg":"→ PING to 1","tick":174,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":174,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":174,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":175,"uid":1}
+{"msg":"→ ELECTION to 4","tick":175,"uid":3}
+{"msg":"→ ELECTION to 5","tick":175,"uid":3}
+{"msg":"→ ELECTION to 6","tick":175,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":175,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":176,"uid":1}
+{"msg":"→ PING to 6","tick":176,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":176,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":176,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":176,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":177,"uid":1}
+{"msg":"→ PING to 6","tick":177,"uid":1}
+{"msg":"→ PING to 4","tick":177,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":177,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":177,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":177,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":178,"uid":1}
+{"msg":"→ ELECTION to 3","tick":178,"uid":2}
+{"msg":"→ ELECTION to 4","tick":178,"uid":2}
+{"msg":"→ ELECTION to 5","tick":178,"uid":2}
+{"msg":"→ ELECTION to 6","tick":178,"uid":2}
+{"msg":"→ PING to 4","tick":178,"uid":2}
+{"msg":"→ PING to 1","tick":178,"uid":3}
+{"msg":"→ ACK to 2","tick":178,"uid":4}
+{"msg":"⏱ timeout: no COORDINATOR received, restarting election","tick":178,"uid":4}
+{"msg":"→ ELECTION to 6","tick":178,"uid":5}
+{"msg":"→ PING to 1","tick":178,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":178,"uid":6}
+{"msg":"→ PING to 3","tick":178,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":179,"uid":1}
+{"msg":"→ PING to 3","tick":179,"uid":1}
+{"msg":"→ ACK to 3","tick":179,"uid":1}
+{"msg":"👑 won election: becoming leader","tick":179,"uid":3}
+{"msg":"→ COORDINATOR to all: I am leader","tick":179,"uid":3}
+{"msg":"→ ELECTION to 5","tick":179,"uid":4}
+{"msg":"→ ELECTION to 6","tick":179,"uid":4}
+{"msg":"→ OK to 2","tick":179,"uid":4}
+{"msg":"→ ACK to 2","tick":179,"uid":4}
+{"msg":"→ PING to 1","tick":179,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":179,"uid":6}
+{"msg":"→ PING to 5","tick":179,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":180,"uid":1}
+{"msg":"→ PING to 1","tick":180,"uid":2}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":180,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":180,"uid":3}
+{"msg":"→ PING to 6","tick":180,"uid":5}
+{"msg":"→ OK to 4","tick":180,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":180,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":181,"uid":1}
+{"msg":"→ ACK to 2","tick":181,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":181,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":181,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":182,"uid":1}
+{"msg":"→ PING to 5","tick":182,"uid":1}
+{"msg":"→ HEARTBEAT to all","tick":182,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":182,"uid":5}
+{"msg":"→ COORDINATOR to all: I am leader","tick":182,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":182,"uid":6}
+{"msg":"→ HEARTBEAT to all","tick":183,"uid":1}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":183,"uid":1}
+{"msg":"→ PING to 4","tick":183,"uid":2}
+{"msg":"← COORDINATOR from 5: accepted as leader","tick":183,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":183,"uid":3}
+{"msg":"👑 won election: becoming leader","tick":183,"uid":4}
+{"msg":"→ COORDINATOR to all: I am leader","tick":183,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":183,"uid":5}
+{"msg":"→ ACK to 1","tick":183,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":183,"uid":6}
+{"msg":"→ PING to 1","tick":183,"uid":6}
+{"msg":"→ PING to 6","tick":184,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":184,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":184,"uid":2}
+{"msg":"→ HEARTBEAT to all","tick":184,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":184,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":184,"uid":4}
+{"msg":"→ ACK to 2","tick":184,"uid":4}
+{"msg":"← HEARTBEAT from 5","tick":184,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":184,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":184,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":185,"uid":1}
+{"msg":"← HEARTBEAT from 3","tick":185,"uid":1}
+{"msg":"← HEARTBEAT from 4","tick":185,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":185,"uid":1}
+{"msg":"← HEARTBEAT from 3","tick":185,"uid":2}
+{"msg":"← HEARTBEAT from 4","tick":185,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":185,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":185,"uid":2}
+{"msg":"→ PING to 4","tick":185,"uid":3}
+{"msg":"← HEARTBEAT from 4","tick":185,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":185,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":185,"uid":3}
+{"msg":"← HEARTBEAT from 5","tick":185,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":185,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":185,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":185,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":185,"uid":6}
+{"msg":"→ ACK to 1","tick":185,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":186,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":186,"uid":1}
+{"msg":"← HEARTBEAT from 5","tick":186,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":186,"uid":2}
+{"msg":"← HEARTBEAT from 5","tick":186,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":186,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":186,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":186,"uid":6}
+{"msg":"→ PING to 2","tick":186,"uid":6}
+{"msg":"→ PING to 3","tick":187,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":187,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":187,"uid":2}
+{"msg":"→ ACK to 6","tick":187,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":187,"uid":3}
+{"msg":"→ PING to 3","tick":187,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":187,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":187,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":188,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":188,"uid":4}
+{"msg":"→ PING to 3","tick":188,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":188,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":188,"uid":6}
+{"msg":"→ ELECTION to 5","tick":189,"uid":4}
+{"msg":"→ ELECTION to 6","tick":189,"uid":4}
+{"msg":"→ PING to 3","tick":189,"uid":4}
+{"msg":"→ HEARTBEAT to all","tick":189,"uid":6}
+{"msg":"→ PING to 3","tick":190,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":190,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":190,"uid":3}
+{"msg":"→ HEARTBEAT to all","tick":190,"uid":6}
+{"msg":"→ PING to 2","tick":191,"uid":1}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":191,"uid":1}
+{"msg":"→ ELECTION to 3","tick":191,"uid":2}
+{"msg":"→ ELECTION to 4","tick":191,"uid":2}
+{"msg":"→ ELECTION to 5","tick":191,"uid":2}
+{"msg":"→ ELECTION to 6","tick":191,"uid":2}
+{"msg":"→ PING to 1","tick":191,"uid":2}
+{"msg":"→ ELECTION to 4","tick":191,"uid":3}
+{"msg":"→ ELECTION to 5","tick":191,"uid":3}
+{"msg":"→ ELECTION to 6","tick":191,"uid":3}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":191,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":191,"uid":6}
+{"msg":"→ ELECTION to 2","tick":192,"uid":1}
+{"msg":"→ ELECTION to 3","tick":192,"uid":1}
+{"msg":"→ ELECTION to 4","tick":192,"uid":1}
+{"msg":"→ ELECTION to 5","tick":192,"uid":1}
+{"msg":"→ ELECTION to 6","tick":192,"uid":1}
+{"msg":"→ PING to 5","tick":192,"uid":1}
+{"msg":"→ ACK to 2","tick":192,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":192,"uid":1}
+{"msg":"→ PING to 1","tick":192,"uid":2}
+{"msg":"→ ACK to 1","tick":192,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":192,"uid":2}
+{"msg":"→ ELECTION to 6","tick":192,"uid":5}
+{"msg":"→ PING to 4","tick":192,"uid":5}
+{"msg":"→ OK to 2","tick":192,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":192,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":192,"uid":6}
+{"msg":"→ OK to 2","tick":192,"uid":6}
+{"msg":"← ELECTION from 2: starting own election","tick":192,"uid":6}
+{"msg":"→ ACK to 2","tick":193,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":193,"uid":1}
+{"msg":"→ PING to 1","tick":193,"uid":2}
+{"msg":"→ OK to 1","tick":193,"uid":2}
+{"msg":"← ELECTION from 1: starting own election","tick":193,"uid":2}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":193,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":193,"uid":2}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":193,"uid":2}
+{"msg":"→ PING to 2","tick":193,"uid":4}
+{"msg":"→ OK to 1","tick":193,"uid":4}
+{"msg":"→ ACK to 5","tick":193,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":193,"uid":4}
+{"msg":"→ OK to 1","tick":193,"uid":5}
+{"msg":"← ELECTION from 1: starting own election","tick":193,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":193,"uid":5}
+{"msg":"→ ACK to 1","tick":193,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":193,"uid":6}
+{"msg":"👑 no higher nodes: winning immediately","tick":193,"uid":6}
+{"msg":"→ PING to 3","tick":193,"uid":6}
+{"msg":"→ OK to 5","tick":193,"uid":6}
+{"msg":"→ OK to 1","tick":193,"uid":6}
+{"msg":"← OK from 4: yielding, waiting for COORDINATOR","tick":194,"uid":1}
+{"msg":"← OK from 5: yielding, waiting for COORDINATOR","tick":194,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":194,"uid":1}
+{"msg":"→ ACK to 2","tick":194,"uid":1}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":194,"uid":1}
+{"msg":"← OK from 2: yielding, waiting for COORDINATOR","tick":194,"uid":1}
+{"msg":"→ PING to 6","tick":194,"uid":2}
+{"msg":"→ ACK to 4","tick":194,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":194,"uid":2}
+{"msg":"→ PING to 4","tick":194,"uid":3}
+{"msg":"→ PING to 1","tick":194,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":194,"uid":4}
+{"msg":"→ PING to 2","tick":194,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":194,"uid":5}
+{"msg":"← OK from 6: yielding, waiting for COORDINATOR","tick":194,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":194,"uid":6}
+{"msg":"→ ACK to 4","tick":195,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":195,"uid":1}
+{"msg":"→ PING to 1","tick":195,"uid":2}
+{"msg":"→ ACK to 5","tick":195,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":195,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":195,"uid":3}
+{"msg":"→ PING to 2","tick":195,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":195,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":195,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":195,"uid":6}
+{"msg":"→ ACK to 2","tick":195,"uid":6}
+{"msg":"→ PING to 6","tick":196,"uid":1}
+{"msg":"→ ACK to 2","tick":196,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":196,"uid":1}
+{"msg":"→ ACK to 4","tick":196,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":196,"uid":2}
+{"msg":"→ PING to 1","tick":196,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":196,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":196,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":196,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":197,"uid":1}
+{"msg":"→ PING to 5","tick":197,"uid":2}
+{"msg":"← HEARTBEAT from 6","tick":197,"uid":2}
+{"msg":"→ PING to 1","tick":197,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":197,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":197,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":197,"uid":6}
+{"msg":"→ PING to 4","tick":197,"uid":6}
+{"msg":"→ ACK to 1","tick":197,"uid":6}
+{"msg":"👑 won election: becoming leader","tick":197,"uid":6}
+{"msg":"→ COORDINATOR to all: I am leader","tick":197,"uid":6}
+{"msg":"→ ACK to 4","tick":198,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":198,"uid":1}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":198,"uid":1}
+{"msg":"← HEARTBEAT from 6","tick":198,"uid":2}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":198,"uid":2}
+{"msg":"⏱ timeout: no heartbeat from leader, starting election","tick":198,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":198,"uid":4}
+{"msg":"→ ACK to 6","tick":198,"uid":4}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":198,"uid":4}
+{"msg":"→ ACK to 2","tick":198,"uid":5}
+{"msg":"← HEARTBEAT from 6","tick":198,"uid":5}
+{"msg":"← COORDINATOR from 6: accepted as leader","tick":198,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":198,"uid":6}
+{"msg":"← HEARTBEAT from 6","tick":199,"uid":1}
+{"msg":"→ ELECTION to 4","tick":199,"uid":3}
+{"msg":"→ ELECTION to 5","tick":199,"uid":3}
+{"msg":"→ ELECTION to 6","tick":199,"uid":3}
+{"msg":"→ PING to 2","tick":199,"uid":3}
+{"msg":"← HEARTBEAT from 6","tick":199,"uid":4}
+{"msg":"← HEARTBEAT from 6","tick":199,"uid":5}
+{"msg":"→ HEARTBEAT to all","tick":199,"uid":6}
+{"msg":"→ PING to 4","tick":199,"uid":6}
