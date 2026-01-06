@@ -2,6 +2,9 @@
 
 A distributed systems simulation implementing the Bully Election Algorithm using OpenMPI. This project provides a tick-based simulation environment with configurable failure models, message dropping, and a D3.js visualizer for observing election dynamics.
 
+## Note 
+This repository was developed as part of the final assignment for the CNSS103 course, Distributed Computing on Cloud and Grids.
+
 ## Building
 
 ### Prerequisites
