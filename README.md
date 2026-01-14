@@ -306,13 +306,50 @@ The simulation uses a clean separation of concerns:
 
 ## Visualizer
 
-Open `visualizer/index.html` in a browser. With autoload enabled, it reads logs from the build directory.
+The visualizer is a D3.js web application that displays the simulation with interactive playback controls.
+
+### Running the Visualizer
+
+Use `serve.py` to start a local server and load the log files produced by the simulation:
+
+```bash
+# From project root (after running simulation in build/)
+python visualizer/serve.py --state build/state_log.jsonl --msg build/message_log.jsonl --debug build/debug_log.jsonl
+
+# From build directory
+python ../visualizer/serve.py -s state_log.jsonl -m message_log.jsonl -d debug_log.jsonl
+
+# On a custom port
+python visualizer/serve.py -s build/state_log.jsonl -m build/message_log.jsonl -p 3000
+
+# Without auto-opening browser
+python visualizer/serve.py -s build/state_log.jsonl -m build/message_log.jsonl --no-browser
+```
+
+**Arguments:**
+| Flag | Description |
+|------|-------------|
+| `--state, -s` | Path to `state_log.jsonl` (required) |
+| `--msg, -m` | Path to `message_log.jsonl` (required) |
+| `--debug, -d` | Path to `debug_log.jsonl` (optional, enables debug tooltips) |
+| `--port, -p` | Server port (default: 8080) |
+| `--no-browser` | Don't auto-open browser |
+
+### Visual Legend
 
 - **Green nodes**: Online
 - **Gray nodes**: Offline
 - **Gold border**: Current leader
 - **Red border**: In election
 - **Animated arrows**: Message flow between nodes
+
+### Playback Controls
+
+- **Play/Pause**: Auto-advance through ticks
+- **Step buttons**: Move forward/backward one tick
+- **Slider**: Jump to specific tick
+- **Speed control**: Adjust playback speed (200-3000ms per tick)
+- **Keyboard**: Arrow keys for prev/next, Space for play/pause
 
 ## Running Experiments
 
